@@ -1,0 +1,507 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"S",
+				"static_pages"
+			],
+			[
+				"image",
+				"image_tag"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"la",
+				"layouts"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"st",
+				"static_pages"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"Mi",
+				"micropost"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"ts",
+				"test"
+			],
+			[
+				"mi",
+				"micropost"
+			],
+			[
+				"ass",
+				"assert"
+			],
+			[
+				"M",
+				"MicropostTest"
+			],
+			[
+				"re",
+				"remember"
+			],
+			[
+				"ac",
+				"action_mailer"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"di",
+				"digest"
+			],
+			[
+				"new",
+				"new_token"
+			],
+			[
+				"do",
+				"downcase"
+			],
+			[
+				"f",
+				"flash"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"usr",
+				"users"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"o",
+				"options"
+			],
+			[
+				"F",
+				"find"
+			],
+			[
+				"be",
+				"before_action"
+			],
+			[
+				"lo",
+				"logged-in"
+			],
+			[
+				"un",
+				"unless\tunless … end"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"fla",
+				"flash"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"p",
+				"product"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/huucc/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/huucc/ecommerce_21/app/assets/javascripts/memenu.js",
+		"/home/huucc/ecommerce_21/app/assets/javascripts/main.js",
+		"/home/huucc/ecommerce_21/app/assets/javascripts/easing.js",
+		"/home/huucc/ecommerce_21/app/assets/javascripts/easyResponsiveTabs.js",
+		"/home/huucc/ecommerce_21/.gitignore",
+		"/home/huucc/ecommerce_21/config/routes.rb",
+		"/home/huucc/ecommerce_21/app/helpers/application_helper.rb",
+		"/home/huucc/ecommerce_21/app/views/layouts/_footer.html.erb",
+		"/home/huucc/ecommerce_21/app/views/static_pages/home.html.erb",
+		"/home/huucc/ecommerce_21/app/views/layouts/_header.html.erb",
+		"/home/huucc/ecommerce_21/config/locales/en.yml",
+		"/home/huucc/ecommerce_21/Gemfile",
+		"/home/huucc/ecommerce_21/app/views/layouts/application.html.erb",
+		"/home/huucc/ecommerce_21/app/controllers/application_controller.rb",
+		"/home/huucc/project/app/views/static_pages/register.html.erb",
+		"/home/huucc/project/app/views/layouts/application.html.erb",
+		"/home/huucc/project/app/views/static_pages/home.html.erb",
+		"/home/huucc/project/app/views/layouts/_header.html.erb",
+		"/home/huucc/project/db/migrate/20170228141802_create_rates.rb",
+		"/home/huucc/project/db/migrate/20170228140922_create_products.rb",
+		"/home/huucc/project/db/migrate/20170228140914_create_order_items.rb",
+		"/home/huucc/ecommerce_21/app/controllers/static_pages_controller.rb",
+		"/home/huucc/project/db/migrate/20170228140903_create_orders.rb",
+		"/home/huucc/project/db/migrate/20170228140840_create_users.rb",
+		"/home/huucc/ecommerce_21/config/database.example.yml",
+		"/home/huucc/ecommerce_21/config/environments/production.rb",
+		"/home/huucc/ecommerce_21/Gemfile.lock",
+		"/home/huucc/ecommerece_21/config/environment.rb",
+		"/home/huucc/ecommerece_21/Gemfile",
+		"/home/huucc/ecommerece_21/app/views/layouts/application.html.erb",
+		"/home/huucc/ecommerece_21/.gitignore",
+		"/home/huucc/ecommerece_21/config/application.rb",
+		"/home/huucc/ecommerece_21/app/views/layouts/mailer.html.erb",
+		"/home/huucc/ecommerece_21/app/helpers/application_helper.rb",
+		"/home/huucc/ecommerece_21/config/database.example.yml",
+		"/home/huucc/ecommerce_21/app/controllers/categories_controller.rb",
+		"/home/huucc/ecommerce_21/config/database.yml.example",
+		"/home/huucc/ecommerce_21/db/migrate/20170301010526_create_rates.rb",
+		"/home/huucc/ecommerce_21/db/migrate/20170301005651_create_users.rb",
+		"/home/huucc/ecommerce_21/db/migrate/20170301005814_create_products.rb",
+		"/home/huucc/ecommerce_21/db/migrate/20170301005742_create_orders.rb",
+		"/home/huucc/ecommerce_21/db/migrate/20170301005802_create_order_items.rb",
+		"/home/huucc/ecommerce_21/app/models/user.rb",
+		"/home/huucc/ecommerce_21/app/views/users/_form.html.erb",
+		"/home/huucc/ecommerce_21/app/controllers/users_controller.rb",
+		"/home/huucc/ecommerce_21/app/views/subgests/index.json.jbuilder",
+		"/home/huucc/ecommerce_21/app/controllers/session_controller.rb",
+		"/home/huucc/ecommerce_21/app/helpers/session_helper.rb",
+		"/home/huucc/ecommerce_21/app/controllers/rates_controller.rb",
+		"/home/huucc/ecommerce_21/app/controllers/subgests_controller.rb",
+		"/home/huucc/ecommerce_21/app/controllers/products_controller.rb",
+		"/home/huucc/ecommerce_21/app/controllers/orders_controller.rb",
+		"/home/huucc/ecommerce_21/app/controllers/order_items_controller.rb",
+		"/home/huucc/ecommerce_21/app/controllers/comments_controller.rb",
+		"/home/huucc/ecommerce_21/app/assets/javascripts/orders.coffee",
+		"/home/huucc/ecommerce_21/app/views/users/new.html.erb",
+		"/home/huucc/ecommerce_21/app/models/category.rb",
+		"/home/huucc/ecommerce_21/app/views/shared/_error_messages.html.erb",
+		"/home/huucc/ecommerce_21/app/views/users/show.html.erb",
+		"/home/huucc/ecommerce_21/app/models/comment.rb",
+		"/home/huucc/ecommerce_21/app/helpers/users_helper.rb",
+		"/home/huucc/ecommerce_21/app/models/product.rb",
+		"/home/huucc/ecommerce_21/app/models/order.rb",
+		"/home/huucc/ecommerce_21/app/models/order_item.rb",
+		"/home/huucc/ecommerce_21/config/locales/database.yml",
+		"/home/huucc/ecommerce_21/config/database.yml",
+		"/home/huucc/ecommerce_21/app/mailers/application_mailer.rb",
+		"/home/huucc/sample_app/app/views/users/_user.html.erb",
+		"/home/huucc/project/app/assets/images/f2.jpg",
+		"/home/huucc/project/app/assets/images/pi2.jpg",
+		"/home/huucc/project/app/assets/stylesheets/style.css",
+		"/home/huucc/project/app/views/layouts/_footer.html.erb",
+		"/home/huucc/sample_app/app/views/layouts/_footer.html.erb",
+		"/home/huucc/project/app/views/static_pages/header.html.erb",
+		"/home/huucc/project/app/views/static_pages/csdcdscdsc",
+		"/home/huucc/project/app/controllers/application_controller.rb",
+		"/home/huucc/project/app/views/static_pages/single.html",
+		"/home/huucc/project/app/views/static_pages/contact.html",
+		"/home/huucc/project/app/views/static_pages/checkout.html",
+		"/home/huucc/project/app/views/static_pages/account.html",
+		"/home/huucc/project/app/views/static_pages/about.html",
+		"/home/huucc/project/app/views/static_pages/index.html",
+		"/home/huucc/project/app/controllers/static_pages_controller.rb",
+		"/home/huucc/project/app/views/static_pages/help.html.erb",
+		"/home/huucc/project/app/views/static_pages/typography.html",
+		"/home/huucc/project/Gemfile",
+		"/home/huucc/project/app/assets/stylesheets/custom.scss",
+		"/home/huucc/project/app/assets/stylesheets/static_pages.scss",
+		"/home/huucc/project/app/assets/stylesheets/menu.scss",
+		"/home/huucc/sample_app/app/mailers/user_mailer.rb",
+		"/home/huucc/sample_app/app/views/static_pages/home.html.erb",
+		"/home/huucc/sample_app/config/environments/development.rb",
+		"/home/huucc/sample_app/config/environments/production.rb",
+		"/home/huucc/sample_app/app/models/user.rb",
+		"/home/huucc/sample_app/app/controllers/users_controller.rb",
+		"/home/huucc/sample_app/Gemfile",
+		"/home/huucc/sample_app/Gemfile~",
+		"/home/huucc/sample_app/config/initializers/carrier_wave.rb",
+		"/home/huucc/sample_app/test/mailers/previews/user_mailer_preview.rb",
+		"/home/huucc/sample_app/db/seeds.rb",
+		"/home/huucc/sample_app/app/controllers/sessions_controller.rb",
+		"/home/huucc/sample_app/app/views/shared/_error_messages.html.erb",
+		"/home/huucc/sample_app/app/views/users/show.html.erb",
+		"/home/huucc/sample_app/app/views/user_mailer/password_reset.html.erb",
+		"/home/huucc/sample_app/app/views/microposts/_micropost.html.erb",
+		"/home/huucc/sample_app/config/application.rb",
+		"/home/huucc/sample_app/config/routes.rb",
+		"/home/huucc/sample_app/config/environments/test.rb",
+		"/home/huucc/sample_app/app/views/password_resets/edit.html.erb",
+		"/home/huucc/sample_app/app/views/user_mailer/account_activation.text.erb",
+		"/home/huucc/sample_app/app/views/password_resets/new.html.erb",
+		"/home/huucc/sample_app/app/views/layouts/application.html.erb",
+		"/home/huucc/sample_app/app/models/micropost.rb",
+		"/home/huucc/sample_app/app/helpers/sessions_helper.rb",
+		"/home/huucc/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/huucc/sample_app/app/controllers/relationships_controller.rb",
+		"/home/huucc/sample_app/app/controllers/password_resets_controller.rb",
+		"/home/huucc/sample_app/app/controllers/microposts_controller.rb",
+		"/home/huucc/sample_app/app/views/relationships/destroy.js.erb",
+		"/home/huucc/sample_app/app/views/relationships/create.js.erb",
+		"/home/huucc/sample_app/app/views/users/show_follow.html.erb",
+		"/home/huucc/sample_app/app/views/users/_unfollow.html.erb",
+		"/home/huucc/sample_app/app/views/users/_follow.html.erb",
+		"/home/huucc/sample_app/test/fixtures/relationships.yml",
+		"/home/huucc/sample_app/app/models/relationship.rb",
+		"/home/huucc/sample_app/app/views/users/_follow_form.html.erb",
+		"/home/huucc/sample_app/app/assets/stylesheets/custom.scss"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h2",
+			"Latest Goggles",
+			"secrets.yml",
+			"'",
+			"''",
+			"banner-top",
+			"Aenean placerat",
+			" login_path",
+			"'",
+			"img-responsive",
+			"img",
+			"Lorem Ipsum is simply dummy text",
+			"banner",
+			"\nLatest Products",
+			"body",
+			">\n",
+			"banner",
+			"I-wear",
+			"I-we",
+			"banner",
+			"banner.jpg",
+			"Please check your email",
+			"?\n",
+			"private",
+			"destroy",
+			" ActiveSupport",
+			"'"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"\"\"",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "application_controller.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ro",
+				"ecommerce_21/config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"ge",
+				"Gemfile~"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"rou",
+				"sample_app/config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 327.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Application"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
