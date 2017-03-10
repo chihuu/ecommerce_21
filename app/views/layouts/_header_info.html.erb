@@ -1,11 +1,24 @@
-<div class="header-info">
-  <div class="container">
-    <div class="header-top-in">
-      <ul class=" support-right">
-        <li><%= link_to t("login"), t("#") %></li>
-        <li><%= link_to t("register"), "#" %></li>
-      </ul>
-      <div class="clearfix"> </div>
-    </div>
-  </div>
+<div>
+  <nav>
+    <ul class="nav navbar-nav navbar-right">
+      <li><%= link_to t(".home"), root_path %></li>
+      <% if logged_in? %>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+          <%= t(".account") %> <b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li><%= link_to t(".profile"), current_user %></li>
+            <li><%= link_to t(".settings"), edit_user_path(current_user) %></li>
+            <li class="divider"></li>
+            <li>
+              <%= link_to t(".log_out"), logout_path, method: "delete" %>
+            </li>
+          </ul>
+        </li>
+      <% else %>
+        <li><%= link_to t(".log_in"), login_path %></li>
+      <% end %>
+    </ul>
+  </nav>
 </div>
