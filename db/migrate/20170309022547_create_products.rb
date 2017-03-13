@@ -7,6 +7,7 @@ class CreateProducts < ActiveRecord::Migration[5.0]
       t.decimal :price
       t.string :image
       t.integer :average_rate
+      t.integer :number_of_order, default: Settings.default.number_of_order
 
       t.timestamps
     end

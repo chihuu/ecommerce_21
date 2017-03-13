@@ -1,3 +1,8 @@
 name_maximum: 50
 email_maximum: 255
 password_minimum: 6
+
+default:
+  top_hot_order_products: 5
+  top_new_products: 5
+  number_of_order: 0

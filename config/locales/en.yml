@@ -17,7 +17,6 @@ en:
   sale: "Sale"
   view: "Quick View"
   name_product: "Aenean placerat"
-  price: "$40"
   phone: "01203 566 278"
   login_invalid: "Invalid Email/Password"
   save_change: "Save Change"
@@ -34,3 +33,12 @@ en:
   update_profile: "Update Your Profile"
   profile: "Profile"
   settings: "Settings"
+  previous: "Previous"
+  next: "Next"
+  new_product: "New products"
+  product:
+    see_detail: "See detail"
+    add_to_cart: "Add to cart"
+    image: "product image"
+    price: "$%{price}"
+
